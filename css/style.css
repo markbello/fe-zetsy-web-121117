@@ -17,6 +17,15 @@ body {
 
 h1{
   font-family: "Baskerville", serif;
+  font-size: 3em;
+}
+
+h1, h2{
+  color: #9BACA6;
+}
+
+a{
+  text-decoration: none;
 }
 
 img{
