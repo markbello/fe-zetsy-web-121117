@@ -31,4 +31,12 @@ img{
 	padding: 0 45px 20px;
 }
 
+.footer{
+  float: right;
+}
+
+.small{
+  font-size: .75em;
+}
+
 /* Write all remaining styles here */
