@@ -10,6 +10,10 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
+img{
+  max-width: 100%;
+}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
